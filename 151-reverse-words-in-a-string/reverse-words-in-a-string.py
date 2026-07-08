@@ -9,4 +9,3 @@ class Solution(object):
     
         return (" ").join(s)
         
-        
