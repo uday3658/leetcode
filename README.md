@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/uday3658/leetcode/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/uday3658/leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/uday3658/leetcode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/uday3658/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/uday3658/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/uday3658/leetcode/tree/master/0451-sort-characters-by-frequency) |
