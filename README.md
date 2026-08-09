@@ -12,11 +12,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/uday3658/leetcode/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/uday3658/leetcode/tree/master/0189-rotate-array) |
+| [0455-assign-cookies](https://github.com/uday3658/leetcode/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/uday3658/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/uday3658/leetcode/tree/master/0189-rotate-array) |
+| [0455-assign-cookies](https://github.com/uday3658/leetcode/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -34,6 +36,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/uday3658/leetcode/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/uday3658/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -51,6 +54,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/uday3658/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/uday3658/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/uday3658/leetcode/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -63,4 +67,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/uday3658/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/uday3658/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
